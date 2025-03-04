@@ -1,0 +1,14 @@
+##Visualization 1 
+I have checked the percentage of students in each gender using bar grapgh
+
+##Visualization 2
+Checking the number of students who have completed the test preparation or not
+
+##Visualization 3
+Visualizing the percentage of students lunch distribution
+
+##Visualization 4
+Number of students in each group, based on the Parental level of education
+
+##Visulaization 5
+i have checked correlation between the scores, we can see that all have high scores This suggests that students who perform well in one subject tend to perform well in others.
